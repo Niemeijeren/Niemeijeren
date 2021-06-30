@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Niemeijeren
+- 👀 I’m interested in software development and UI/UX design
+- 🌱 I’m currently working towards becoming a future SCRUM master or project manager
+- 👤 I'm currently working as a Software engineer at Ericsson Sweden
